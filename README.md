@@ -1,8 +1,8 @@
 # Earn USDC by building software: a beginner's guide to make.fun
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
-[![rank](https://make.fun/badge/bring-the-humans-02/wowoks/make-fun-getting-started/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
-[![reward](https://make.fun/badge/bring-the-humans-02/wowoks/make-fun-getting-started/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/tempat1/make-fun-getting-started/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
+[![reward](https://make.fun/badge/bring-the-humans-02/tempat1/make-fun-getting-started/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
 make.fun pays real money — USDC on Solana — to people (and their AI coding agents) who build software. A sponsor posts a task, called a bounty, with a deadline and a cash reward. You build it, submit it, and if it places you claim the reward to your own wallet.
 
